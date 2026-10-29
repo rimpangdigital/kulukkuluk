@@ -1,0 +1,50 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_90D727A0_8687_79D3_41AD_D2489DBC6FDC.source = /
+LinkBehaviour_9212C821_86B9_F6D5_41C4_11EA7AFCE7EE.source = /
+LinkBehaviour_927B9163_86BB_D955_41D2_5244570C9951.source = https://www.instagram.com/kulukkuluk.id/
+LinkBehaviour_90D4E7B0_8687_7933_41DE_B44DC24904A7.source = https://www.instagram.com/kulukkuluk.id/
+
+## Media
+
+### Title
+album_9691BFFE_868F_692E_41C5_513B7285675C_5.label = 4
+panorama_8BB4F7EC_85F4_81E1_41D9_F1633FC487B8.label = GS__3881
+album_9691BFFE_868F_692E_41C5_513B7285675C_7.label = Image_6yu1uq6yu1uq6yu1
+album_9691BFFE_868F_692E_41C5_513B7285675C_6.label = Image_7i2k2b7i2k2b7i2k
+album_9691BFFE_868F_692E_41C5_513B7285675C_0.label = P70818-113331
+album_9691BFFE_868F_692E_41C5_513B7285675C.label = Photo Album P70818-113331
+album_9691BFFE_868F_692E_41C5_513B7285675C_3.label = unnamed (24)
+album_9691BFFE_868F_692E_41C5_513B7285675C_2.label = unnamed (28)
+album_9691BFFE_868F_692E_41C5_513B7285675C_4.label = unnamed (85)
+album_9691BFFE_868F_692E_41C5_513B7285675C_1.label = unnamed - 2025-09-01T054411.295
+
+## Skin
+
+### Image
+Image_8AC642E0_85D2_5DA3_41B5_24349B7A7854.url = skin/Image_8AC642E0_85D2_5DA3_41B5_24349B7A7854_en.png
+Image_8AC642E0_85D2_5DA3_41B5_24349B7A7854_mobile.url = skin/Image_8AC642E0_85D2_5DA3_41B5_24349B7A7854_mobile_en.png
+Image_8ACE6A62_85D2_4CA7_41D8_3BA023F8C08C.url = skin/Image_8ACE6A62_85D2_4CA7_41D8_3BA023F8C08C_en.png
+Image_8ACE6A62_85D2_4CA7_41D8_3BA023F8C08C_mobile.url = skin/Image_8ACE6A62_85D2_4CA7_41D8_3BA023F8C08C_mobile_en.png
+Image_8B3FF653_85D3_C4E5_41E0_4882F7F94F6A.url = skin/Image_8B3FF653_85D3_C4E5_41E0_4882F7F94F6A_en.png
+Image_8B3FF653_85D3_C4E5_41E0_4882F7F94F6A_mobile.url = skin/Image_8B3FF653_85D3_C4E5_41E0_4882F7F94F6A_mobile_en.png
+Image_8B4F2DC2_85D2_C7E7_41C9_354D4081B252.url = skin/Image_8B4F2DC2_85D2_C7E7_41C9_354D4081B252_en.png
+Image_8B4F2DC2_85D2_C7E7_41C9_354D4081B252_mobile.url = skin/Image_8B4F2DC2_85D2_C7E7_41C9_354D4081B252_mobile_en.png
+Image_92F738D6_868F_577F_41B1_1B23E6A65F08.url = skin/Image_92F738D6_868F_577F_41B1_1B23E6A65F08_en.png
+Image_92F738D6_868F_577F_41B1_1B23E6A65F08_mobile.url = skin/Image_92F738D6_868F_577F_41B1_1B23E6A65F08_mobile_en.png
+Image_93930A7D_8689_AB2D_41D0_2E16CE7D08EA.url = skin/Image_93930A7D_8689_AB2D_41D0_2E16CE7D08EA_en.png
+Image_93930A7D_8689_AB2D_41D0_2E16CE7D08EA_mobile.url = skin/Image_93930A7D_8689_AB2D_41D0_2E16CE7D08EA_mobile_en.png
+
+### Multiline Text
+HTMLText_8A6DCFAB_8689_E9D6_41D3_9085947B1993_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.709576138147567vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.71vh;font-family:Cascadia Mono;"><B>Kuluk Kuluk</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.71vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.794871794871795vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.79vh;font-family:Cascadia Mono;"><B>Kuluk Kuluk began as a personal coffee blend created by Ube, a visual artist whose daily life has always been closely intertwined with coffee. What started as a simple merchandise idea in 2019 has since grown into a unique, community-driven coffee space.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.79vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.794871794871795vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.79vh;font-family:Cascadia Mono;"><B>Now trademarked, Kuluk Kuluk exists as a coffee shop nestled within the vibrant Gudskul ecosystem in Jagakarsa, South Jakarta. More than just a café, it serves as a welcoming spot to hang out, enjoy coffee brewed directly by Ube himself, and experience the warm spirit of togetherness that defines the brand.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.79vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.794871794871795vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.79vh;font-family:Cascadia Mono;"><B>Inspired by the concept of “making coffee for friends,” Kuluk Kuluk is built on values of friendship, sincerity, and shared creative energy. The space not only offers coffee but also hosts informal gatherings, workshops, and exhibitions, becoming a crossroad for artists, locals, and anyone seeking comfort in a cup and conversation.</B></SPAN></SPAN></DIV></div>
+HTMLText_8A6DCFAB_8689_E9D6_41D3_9085947B1993.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.709576138147567vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.71vh;font-family:Cascadia Mono;"><B>Kuluk Kuluk</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.71vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8257456828885403vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.83vh;font-family:Cascadia Mono;"><B>Kuluk Kuluk began as a personal coffee blend created by Ube, a visual artist whose daily life has always been closely intertwined with coffee. What started as a simple merchandise idea in 2019 has since grown into a unique, community-driven coffee space.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8257456828885403vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.83vh;font-family:Cascadia Mono;"><B>Now trademarked, Kuluk Kuluk exists as a coffee shop nestled within the vibrant Gudskul ecosystem in Jagakarsa, South Jakarta. More than just a café, it serves as a welcoming spot to hang out, enjoy coffee brewed directly by Ube himself, and experience the warm spirit of togetherness that defines the brand.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8257456828885403vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.83vh;font-family:Cascadia Mono;"><B>Inspired by the concept of “making coffee for friends,” Kuluk Kuluk is built on values of friendship, sincerity, and shared creative energy. The space not only offers coffee but also hosts informal gatherings, workshops, and exhibitions, becoming a crossroad for artists, locals, and anyone seeking comfort in a cup and conversation.</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 10
